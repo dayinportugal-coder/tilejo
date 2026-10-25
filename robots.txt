@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dayinportugal-coder.github.io/tilejo/sitemap.xml
