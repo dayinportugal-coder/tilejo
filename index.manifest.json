@@ -1,0 +1,47 @@
+{
+ "background_color": "#fbf8f1",
+ "display": "standalone",
+ "icons": [
+  {
+   "src": "index.144x144.png",
+   "sizes": "144x144",
+   "type": "image/png"
+  },
+  {
+   "src": "index.180x180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "index.192x192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "index.512x512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "index.512x512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "name": "Tilejo",
+ "orientation": "portrait",
+ "start_url": "./index.html",
+ "id": "./",
+ "short_name": "Tilejo",
+ "description": "Tilejo – restaura painéis de azulejos baralhados. Puzzle grátis, sem anúncios, joga offline. Restore scrambled azulejo panels – free puzzle, no ads, works offline.",
+ "lang": "pt-PT",
+ "scope": "./",
+ "theme_color": "#fbf8f1",
+ "categories": [
+  "games",
+  "puzzle"
+ ]
+}
