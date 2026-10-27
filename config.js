@@ -6,8 +6,8 @@
 window.GAME_CONFIG = {
   GAME: "tilejo",
   MODE: "gumroad",                 // "gumroad" = free part + key unlock · "free" = everything open
-  GUMROAD_PRODUCT_ID: "",          // e.g. "AbCdEf123456==" (fill in)
-  BUY_URL: "https://portugaldiary.gumroad.com/l/PLACEHOLDER-tilejo-full",
+  GUMROAD_PRODUCT_ID: "iIYsh2utFOZBZ6dQi45HOQ==",          // e.g. "AbCdEf123456==" (fill in)
+  BUY_URL: "https://portugaldiary.gumroad.com/l/tilejo-full",
   PRICE_LABEL: "2,99 €",
   INK: "#1d4e89",                  // colour of the unlock window
   MAX_USES: 5,                     // devices/browsers per key

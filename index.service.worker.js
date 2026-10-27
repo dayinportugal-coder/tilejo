@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = 'web-b038e9672f';
+const CACHE_VERSION = 'web-0c9bba1d05';
 /** @type {string} */
 const CACHE_PREFIX = 'Tilejo-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
